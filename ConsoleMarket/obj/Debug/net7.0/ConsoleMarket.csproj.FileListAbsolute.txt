@@ -1,0 +1,14 @@
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\bin\Debug\net7.0\ConsoleMarket.exe
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\bin\Debug\net7.0\ConsoleMarket.deps.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\bin\Debug\net7.0\ConsoleMarket.runtimeconfig.json
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\bin\Debug\net7.0\ConsoleMarket.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\bin\Debug\net7.0\ConsoleMarket.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.AssemblyInfoInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.AssemblyInfo.cs
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.csproj.CoreCompileInputs.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\refint\ConsoleMarket.dll
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.pdb
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ConsoleMarket.genruntimeconfig.cache
+C:\Users\brsen\Desktop\Curso C#\Curso C# Nelio Alves - Exercícios\ConsoleMarket\ConsoleMarket\obj\Debug\net7.0\ref\ConsoleMarket.dll
